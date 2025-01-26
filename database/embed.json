@@ -1,0 +1,104 @@
+{
+    "1": {
+        "name": "﹒Rov",
+        "description": "เติม Rov เลือกที่นี่",
+        "emoji": "<:RoV:1263497560321032192>",
+        "embed": {
+            "title": "Rov Package",
+            "description": "ยินดีต้อนรับสู่แพ็กเกจ Rov!",
+            "color": 16766720,
+            "thumbnail": "https://media.discordapp.net/attachments/1041602377955954718/1041602447384256563/4112F6D3-A1E0-4FCC-87D3-5B537765B898.png?ex=669f4f5f&is=669dfddf&hm=664be9d8b36157366d48b314063ed5430690a5ed9a7d8225deb004fa0d6245d3&=&format=webp&quality=lossless&width=701&height=701",
+            "image": "https://media.discordapp.net/attachments/1043250501564772372/1299045590541533204/rov_point.png?ex=678dcfbb&is=678c7e3b&hm=6c5228ccaec24a808f5b5b9a2f1122cf4efbfc6512c1fa996f333cc59fbb0222&=&format=webp&quality=lossless&width=701&height=701"
+        },
+        "button_label1": "แพ็ก 10฿",
+        "button_label2": "แพ็ก 20฿",
+        "button_label3": "แพ็ก 50฿",
+        "button_label4": "แพ็ก 90฿",
+        "button_label5": "แพ็ก 145฿",
+        "button_label6": "แพ็ก 290฿", 
+        "button_label7": "แพ็ก 485฿",
+        "button_label8": "แพ็ก 960฿",
+        "button_label9": "แพ็ก 1920฿",
+        "button_label10": "แพ็ก 2880฿",
+        "button_label11": "Valor Pass 320฿",
+        "button_label12": "Valor Pass 440฿"
+    },
+    "2": {
+        "name": "﹒Valorant",
+        "description": "เติม Valorant เลือกที่นี่",
+        "emoji": "<:Valorant:1264936453423501394>",
+        "embed": {
+            "title": "Valorant Package",
+            "description": "ยินดีต้อนรับสู่แพ็กเกจ Valorant!",
+            "color": 16777215,
+            "thumbnail": "https://media.discordapp.net/attachments/1041602377955954718/1041602447384256563/4112F6D3-A1E0-4FCC-87D3-5B537765B898.png?ex=669f4f5f&is=669dfddf&hm=664be9d8b36157366d48b314063ed5430690a5ed9a7d8225deb004fa0d6245d3&=&format=webp&quality=lossless&width=701&height=701",
+            "image": "https://media.discordapp.net/attachments/1043250772940439572/1256670921700151428/valorant_point.png?ex=669a013f&is=6698afbf&hm=3a51cae0922b61b642f57a54d838bb5738fc29a02c1724e9a198e47b8e2ec399&=&format=webp&quality=lossless&width=701&height=701"
+        },
+        "button_label": "แพ็ก 122฿ 475vp",
+        "button_label2": "แพ็ก 245฿ 1000vp",
+        "button_label3": "แพ็ก 490฿ 2050vp",
+        "button_label4": "แพ็ก 870฿ 3650vp",
+        "button_label5": "แพ็ก 1250฿ 5350vp",
+        "button_label6": "แพ็ก 2500฿ 11000vp"
+    },
+    "3": {
+        "name": "﹒FreeFire",
+        "description": "เติม FreeFire เลือกที่นี่",
+        "emoji": "<:FreeFire:1264937403475296398>",
+        "embed": {
+            "title": "FreeFire Package",
+            "description": "ยินดีต้อนรับสู่แพ็กเกจ FreeFire!",
+            "color": 255,
+            "thumbnail": "https://media.discordapp.net/attachments/1041602377955954718/1041602447384256563/4112F6D3-A1E0-4FCC-87D3-5B537765B898.png?ex=669f4f5f&is=669dfddf&hm=664be9d8b36157366d48b314063ed5430690a5ed9a7d8225deb004fa0d6245d3&=&format=webp&quality=lossless&width=701&height=701",
+            "image": "https://media.discordapp.net/attachments/1043250716011155526/1043578591998382161/shop_freefire.png?ex=669aa24d&is=669950cd&hm=e7492ba164ff20c83ed5cb0b03105cd6aa0c02a489962d6a19533f04f0bd1364&=&format=webp&quality=lossless&width=701&height=701"
+        },
+        "button_label": "แพ็ก 50฿",
+        "button_label2": "แพ็ก 90฿",
+        "button_label3": "แพ็ก 145฿",
+        "button_label4": "แพ็ก 290฿",
+        "button_label5": "แพ็ก 485฿",
+        "button_label6": "แพ็ก 960฿",
+        "button_label7": "แพ็ก EP Crad 115฿",
+        "button_label8": "แพ็ก VIP 960฿"
+    },
+    "4": {
+        "name": "﹒Genshin",
+        "description": "เติม Genshin เลือกที่นี่",
+        "emoji": "<:Genshin:1264938090154295397>",
+        "embed": {
+            "title": "Genshin Package",
+            "description": "ยินดีต้อนรับสู่แพ็กเกจ Genshin!",
+            "color": 65280,
+            "thumbnail": "https://media.discordapp.net/attachments/1041602377955954718/1041602447384256563/4112F6D3-A1E0-4FCC-87D3-5B537765B898.png?ex=669f4f5f&is=669dfddf&hm=664be9d8b36157366d48b314063ed5430690a5ed9a7d8225deb004fa0d6245d3&=&format=webp&quality=lossless&width=701&height=701",
+            "image": "https://media.discordapp.net/attachments/1064245017436246057/1089477198349602898/shop__1.png?ex=669a2e35&is=6698dcb5&hm=b562649d2fcf0f69ba59a1f7c70ad3ee7db081e923bc33ffa120fc28e74852d7&=&format=webp&quality=lossless&width=701&height=701"
+        },
+        "button_label": "แพ็ก 32฿",
+        "button_label2": "แพ็ก 160฿",
+        "button_label3": "แพ็ก 490฿",
+        "button_label4": "แพ็ก 1590฿",
+        "button_label5": "แพ็ก 3270฿",
+        "button_label6": "แพ็ก 6530฿",
+        "button_label7": "แพ็ก 9790฿",
+        "button_label8": "พรดวงจันทร์ 160฿"
+    },
+    "5": {
+        "name": "﹒LoL Wild Rift",
+        "description": "เติม LoL Wild Rift เลือกที่นี่",
+        "emoji": "<:lol:1264940413861761109>",
+        "embed": {
+            "title": "LoL Wild Rift Package",
+            "description": "ยินดีต้อนรับสู่แพ็กเกจ LoL Wild Rift!",
+            "color": 65280,
+            "thumbnail": "https://media.discordapp.net/attachments/1041602377955954718/1041602447384256563/4112F6D3-A1E0-4FCC-87D3-5B537765B898.png?ex=669f4f5f&is=669dfddf&hm=664be9d8b36157366d48b314063ed5430690a5ed9a7d8225deb004fa0d6245d3&=&format=webp&quality=lossless&width=701&height=701",
+            "image": "https://media.discordapp.net/attachments/1043487365911556126/1043578067991416832/shop_.png?ex=669f3f10&is=669ded90&hm=e6ce815a15a79068ccf931168c9262046f274c87416aeefdfe5ca4410eb86f75&=&format=webp&quality=lossless&width=701&height=701"
+        },
+        "button_label1": "แพ็ก 93฿",
+        "button_label2": "แพ็ก 183฿",
+        "button_label3": "แพ็ก 320฿",
+        "button_label4": "แพ็ก 410฿",
+        "button_label5": "แพ็ก 550฿",
+        "button_label6": "แพ็ก 910฿",
+        "button_label7": "แพ็ก 1320฿",
+        "button_label8": "แพ็ก 2630฿"
+    }
+}
